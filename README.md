@@ -7,6 +7,21 @@ description: 将一张或多张城市、建筑、铁路、桥梁、江河、乡�
 
 制作克制、安静的 3:4 米白色画册明信片。上半区忠实保留输入照片，下半区呈现从原图提炼的极简水墨研究，最后通过确定性排版加入用户指定的主标题和本地英文短句。
 
+## 示例展示
+
+以下示例来自 [`img/`](./img/) 目录，展示了摄影与水墨上下对照的最终明信片效果：
+
+<p>
+  <img src="./img/013-sj-2-changsha-postcard.png" alt="013-sj-2 长沙摄影水墨明信片" width="240">
+  <img src="./img/013-sj-3-changsha-postcard.png" alt="013-sj-3 长沙摄影水墨明信片" width="240">
+  <img src="./img/019-sj-1-21-changsha-postcard.png" alt="019-sj-1-21 长沙摄影水墨明信片" width="240">
+</p>
+<p>
+  <img src="./img/019-sj-1-25-changsha-postcard.png" alt="019-sj-1-25 长沙摄影水墨明信片" width="240">
+  <img src="./img/019-sj-1-4-changsha-postcard.png" alt="019-sj-1-4 长沙摄影水墨明信片" width="240">
+  <img src="./img/019-sj-1-5-changsha-postcard.png" alt="019-sj-1-5 长沙摄影水墨明信片" width="240">
+</p>
+
 ## 必需输入
 
 - 输入图片或图片目录。
